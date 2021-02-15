@@ -4,8 +4,8 @@ VisAnProject 2019
 from Victor, Kinger
 working on Mini Challenge 2
 
-![alt text](https://gitlab.rhrk.uni-kl.de/visanproject2019/visan2019_2/raw/init_version/data/Tool_Screenshots/Visual_Analysis_Tab.png "Visual Analysis")
-![alt text](https://gitlab.rhrk.uni-kl.de/visanproject2019/visan2019_2/raw/init_version/data/Tool_Screenshots/Data_Analysis_Tab.png "Data Analysis")
+![alt text](data/Tool_Screenshots/Visual_Analysis_Tab.png "Visual Analysis")
+![alt text](data/Tool_Screenshots/Data_Analysis_Tab.png "Data Analysis")
 
 Prerequistes to run the project:
 1. Anaconda Distribution
